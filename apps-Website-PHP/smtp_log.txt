@@ -1,0 +1,6 @@
+[2026-01-15 08:19:30] --- START EMAIL SEND ---
+[2026-01-15 08:19:30] To: sales@apsstradesphere.com | Subject: Test Email from Localhost
+[2026-01-15 08:19:30] WARNING: OpenSSL extension missing. Cannot use SSL on 465.
+[2026-01-15 08:23:42] --- START EMAIL SEND ---
+[2026-01-15 08:23:42] To: sales@apsstradesphere.com | Subject: Contact Form: export
+[2026-01-15 08:23:42] WARNING: OpenSSL extension missing. Cannot use SSL on 465.
